@@ -1,6 +1,6 @@
 
 {
-  "name": "react-native-lock",
+  "name": "react-native-lock-android",
   "version": "1.0.0",
   "description": "",
   "main": "Index.ts",
