@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/huangzhengzhong/react-native-lock.git"
+    "url": "git+https://github.com/huangzhengzhong/react-native-lock.git"
   },
   "keywords": [
     "react-native"
